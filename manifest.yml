@@ -1,0 +1,6 @@
+applications:
+- name: chatbotararisp
+  command: npm start
+  path: .
+  memory: 512M
+  instances: 1
